@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Questionnaire</string>
+    <string name="start_questionnaire">Start Survey</string>
+    <string name="show_result">Survey Result</string>
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="name">Enter Name</string>
+</resources>
